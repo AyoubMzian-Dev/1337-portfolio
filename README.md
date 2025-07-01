@@ -88,7 +88,7 @@ Our design follows a cyberpunk-inspired theme that reflects the innovative and c
 
 - [Ayoub Dev] - Fullstack Developer
 - [Mohamad Amine] - chi haja
-- [Yassin zamel ] - Lmohime rak kyn 
+- [Yassin ] - Lmohime rak kyn 
 
 
 ## 🎯 Project Goals
