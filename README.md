@@ -2,6 +2,7 @@
 
 A modern, interactive portfolio website for 1337 School in Morocco, built by a team of aspiring developers. This project showcases our journey and passion for coding while providing comprehensive information about the school's curriculum, campuses, and admission process.
 
+<img width="1563" alt="Demo Screenshot " src="https://github.com/user-attachments/assets/0fed1373-0d69-47dc-9b3c-2b38a15cf0a7" />
 ## 🚀 Features
 
 - **Interactive Timeline**: Visual representation of the admission process
@@ -9,6 +10,7 @@ A modern, interactive portfolio website for 1337 School in Morocco, built by a t
 - **Curriculum Overview**: Detailed view of the learning path
 - **Testimonials**: Success stories from current students
 - **Multi-language Support**: Available in multiple languages
+
 - **Dark Mode**: Cyberpunk-inspired dark theme
 - **Responsive Design**: Optimized for all devices
 - **Interactive Maps**: Campus locations and facilities
